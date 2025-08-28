@@ -9,7 +9,10 @@
    > -running on virtual environment so we can install it
    
    > -move the directiory terminal to the targeted folder
+   
    > -using cd /home/*target folder*
+   
    > -run pip install opencv-python
-   >
+   
+   > -
     
