@@ -14,5 +14,5 @@
    
    > -run pip install opencv-python
    
-   > -
+   > -opening python shell by running [python] inside the terminal right after installing the opencv
     
