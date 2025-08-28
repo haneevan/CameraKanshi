@@ -7,7 +7,6 @@
 5. will get a /dev/video list, and that's means it worked
 6. next were installing the opencv camera
    > -running on virtual environment so we can install it
-   >
    > -move the directiory terminal to the targeted folder
    > -using cd /home/*target folder*
    > -run pip install opencv-python
